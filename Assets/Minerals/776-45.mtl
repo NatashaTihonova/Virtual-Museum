@@ -1,0 +1,39 @@
+#
+# platform
+#
+# Materials for the file "776-45.obj"
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd 776-45ImageColorPerFace.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 776-45Image1.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 776-45Image_1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file

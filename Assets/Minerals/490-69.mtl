@@ -1,0 +1,47 @@
+#
+# platform
+#
+# Materials for the file "490-69.obj"
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd 490-69ImageColorPerFace.png
+
+newmtl _1_1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 490-69Image_1_1.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 490-69Image1.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 490-69Image_1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file

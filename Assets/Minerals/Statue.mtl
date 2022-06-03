@@ -1,0 +1,31 @@
+#
+# platform
+#
+# Materials for the file "Statue.obj"
+#
+
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd StatueImagem1.png
+
+newmtl m2
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd StatueImagem2.png
+
+# end of file

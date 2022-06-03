@@ -1,0 +1,22 @@
+#
+# platform
+#
+
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd d18dd0bad0b7d0b5d0bcd0bfd0bbd18fd1805f325f32382e3033496d6167656d31.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd d18dd0bad0b7d0b5d0bcd0bfd0bbd18fd1805f325f32382e3033496d61676564656661756c74.png
+
+# end of file

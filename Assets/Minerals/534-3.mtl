@@ -1,0 +1,39 @@
+#
+# platform
+#
+# Materials for the file "534-3.obj"
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd 534-3ImageColorPerFace.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 534-3Image1.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on 534-3Image_1.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file

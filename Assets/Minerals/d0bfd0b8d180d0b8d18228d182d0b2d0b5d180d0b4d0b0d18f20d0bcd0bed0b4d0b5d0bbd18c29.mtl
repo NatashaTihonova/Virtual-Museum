@@ -1,0 +1,45 @@
+#
+# platform
+#
+
+
+newmtl ColorPerFace
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd d0bfd0b8d180d0b8d18228d182d0b2d0b5d180d0b4d0b0d18f5fd0bcd0bed0b4d0b5d0bbd18c29496d616765436f6c6f7250657246616365.png
+
+newmtl _1_1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd d0bfd0b8d180d0b8d18228d182d0b2d0b5d180d0b4d0b0d18f5fd0bcd0bed0b4d0b5d0bbd18c29496d6167655f315f31.png
+
+newmtl m1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on d0bfd0b8d180d0b8d18228d182d0b2d0b5d180d0b4d0b0d18f5fd0bcd0bed0b4d0b5d0bbd18c29496d61676531.png
+
+newmtl _1
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+   map_Kd -clamp on d0bfd0b8d180d0b8d18228d182d0b2d0b5d180d0b4d0b0d18f5fd0bcd0bed0b4d0b5d0bbd18c29496d6167655f31.png
+
+newmtl default
+   illum 1
+   d 1
+   Ns 6
+   sharpness 60
+   Ni 1
+
+# end of file
